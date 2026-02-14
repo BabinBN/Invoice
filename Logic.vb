@@ -11,7 +11,7 @@ Public Class Logic
     Public Function Addition()
         'Dim num As Integer = 1234
 
-        'Dim arabic As String = num.ToWords(New CultureInfo("ar"))
+        'Dim arabic As String = num.ToWords(New CultureInfo("ar")) test
 
         Return TranslateToArabic("Heloo World")
     End Function
